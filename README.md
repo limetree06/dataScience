@@ -1,2 +1,2 @@
-# intern in core.today
-# imporoing dataStroytelling skill
+### intern in core.today
+### imporoing dataStroytelling skill
