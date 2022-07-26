@@ -10,3 +10,5 @@ TYPE_CONFIG = {
     "칼럼": "editorial",
     "보도자료": "press",
 }
+
+print("Hello world!")
