@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "",
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.lintOnSave": true,
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.python"
+    }
+  }
