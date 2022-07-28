@@ -1,2 +1,2 @@
-### intern in core.today
-### imporoing dataStroytelling skill
+### internship program at core.today
+### imporoving dataStroytelling skill
