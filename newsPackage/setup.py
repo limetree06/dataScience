@@ -1,26 +1,26 @@
 from setuptools import setup, find_packages
 
+INSTALL_REQUIRES = [
+    "pandas >= 0.14",
+    "requests >= 2.7.0",
+    "beautifulsoup4 >= 4.9.3",
+]
+
+KEYWORDS = [
+    "news",
+    "scraping",
+]
+
 setup(
-    name="KnewsScraper",
-    version="0.1",
-    description="ccpy",
+    name="Knews-Scraper",
+    version="0.0.1",
+    description="Scrape news titles from DAUM",
     author="limetree06",
     author_email="limetree0006@gmail.com",
     url="https://github.com/limetree06",
-    download_url="https://github.com/limetree06/Knews-Scraper/archive/0.0.tar.gz",
-    install_requires=[],
-    packages=find_packages(exclude=[]),
-    keywords=["kornewsscraper"],
+    license="MIT",
+    install_requires=INSTALL_REQUIRES,
+    packages=find_packages(),
+    keywords=KEYWORDS,
     python_requires=">=3",
-    package_data={},
-    zip_safe=False,
-    classifiers=[
-        "Programming Language :: Python :: 3",
-        "Programming Language :: Python :: 3.2",
-        "Programming Language :: Python :: 3.3",
-        "Programming Language :: Python :: 3.4",
-        "Programming Language :: Python :: 3.5",
-        "Programming Language :: Python :: 3.6",
-        "Programming Language :: Python :: 3.7",
-    ],
 )
