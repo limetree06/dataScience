@@ -1,2 +1,1 @@
-### internship program at core.today
-### imporoving dataStroytelling skill
+2022 여름 인턴십
