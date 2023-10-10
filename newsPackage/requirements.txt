@@ -1,0 +1,6 @@
+numpy==1.22.4
+pandas==1.4.2
+requests>=2.7.0
+pytz==2022.1
+beautifulsoup4==4.11.0
+python_dateutil==2.8.2
